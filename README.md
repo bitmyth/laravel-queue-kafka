@@ -43,7 +43,7 @@ Kafka Queue driver for Laravel
     
 4. Install this package via composer using:
 
-	    composer require rapide/laravel-queue-kafka
+	    composer require bitmyth/laravel-queue-kafka
 
 5. Add LaravelQueueKafkaServiceProvider to `providers` array in `config/app.php`:
 
